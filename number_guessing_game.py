@@ -63,3 +63,4 @@ print("\nGame over")
 # Check if the player lost the game
 if remaining_attempts == 0:
     print("You lose the game\n")
+# MY first contribution
